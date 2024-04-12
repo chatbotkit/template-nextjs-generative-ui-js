@@ -1,6 +1,6 @@
 # Generative UI Template for Next.js / ChatBotKit / JS
 
-This repository is a template to quickly start your next Generative UI project using Node.js, ChatBotKit and JavaScript.
+This repository is a template to help you quickly start your next Generative UI project using Node.js, ChatBotKit and JavaScript.
 
 ## Technology Stack
 
