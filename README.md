@@ -13,7 +13,7 @@ This repository is a template to help you quickly start your next Generative UI 
 ### Automated Setup
 
 1. `npx create-cbk-app`
-2. Provide the name
+2. Follow the promts
 3. Install dependencies by running npm install.
 4. Set the `CHATBOTKIT_API_SECRET` environment variable with your ChatBotKit API secret.
 5. Optionally, set the `CHATBOTKIT_MODEL` environment variable to specify the model used for conversation (default is GPT-3.5 Turbo).
