@@ -7,7 +7,7 @@ import ConversationManager from '@chatbotkit/react/components/ConversationManage
 export default function Page() {
   return (
     <ConversationManager endpoint={complete}>
-        <ChatArea />
+      <ChatArea />
     </ConversationManager>
   )
 }
