@@ -1,5 +1,8 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/javascript-node:1.0.7-18-bullseye",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:22-bookworm",
+
   "features": {
     "git-lfs": "latest"
   }
