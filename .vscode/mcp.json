@@ -1,6 +1,6 @@
 {
   "servers": {
-    "cbk-mcp": {
+    "cbk": {
       "type": "http",
       "url": "https://mcp.cbk.ai/mcp",
       "headers": {
