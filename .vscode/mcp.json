@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "cbk": {
+      "type": "http",
+      "url": "https://mcp.cbk.ai/mcp",
+      "headers": {
+        // @note uncomment the following line to use an authorization token
+        // "Authorization": "Bearer ${input:cbki-api-token}"
+      }
+    }
+  }
+}
