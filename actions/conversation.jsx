@@ -23,7 +23,7 @@ export async function complete({ messages }) {
     // setting the CHATBOTKIT_MODEL environment variable. The default model is
     // GPT-3.5 Turbo.
 
-    model: process.env.CHATBOTKIT_MODEL || 'gpt-3.5-turbo',
+    model: process.env.CHATBOTKIT_MODEL || 'gpt-5.4-mini',
 
     // Pass the messages to the conversation.
 
