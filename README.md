@@ -50,14 +50,14 @@ Open [http://localhost:3000](http://localhost:3000) to get started.
 
 | Variable                | Required | Description                                                                      |
 | ----------------------- | -------- | -------------------------------------------------------------------------------- |
-| `CHATBOTKIT_API_SECRET` | Yes      | ChatBotKit API token from [chatbotkit.com/tokens](https://chatbotkit.com/tokens) |
+| `CHATBOTKIT_API_TOKEN` | Yes      | ChatBotKit API token from [chatbotkit.com/tokens](https://chatbotkit.com/tokens) |
 | `CHATBOTKIT_MODEL`      | No       | Model to use for conversation (default: `gpt-5.4-mini`)                          |
 
 ### Setting Up ChatBotKit
 
 1. Sign up or log in at [chatbotkit.com](https://chatbotkit.com)
 2. Go to [chatbotkit.com/tokens](https://chatbotkit.com/tokens) and create an API token
-3. Copy the API token to `CHATBOTKIT_API_SECRET` in your `.env` file
+3. Copy the API token to `CHATBOTKIT_API_TOKEN` in your `.env` file
 
 No pre-configured bot is needed. The agent backstory and functions are defined inline in `actions/conversation.jsx`. Customize the backstory and add your own generative UI function components in `components/functions/`.
 
